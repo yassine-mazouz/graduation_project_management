@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="construction_pms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/construction_pms.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
